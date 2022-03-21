@@ -1,0 +1,27 @@
+
+h1{
+    text-align: center;
+    color: black;
+}
+h2{
+    color: black;
+    text-align: center;
+}
+img{
+     display: block;
+     margin-left: auto;
+    margin-right: auto;
+     width: 100%;
+}
+body{
+    background-color: white;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    position: center;
+    /*flex-basis: 200px;*/
+  }
+
